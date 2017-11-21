@@ -1,5 +1,9 @@
 # ajs-5.3-event-delegation
-Advanced JavaScript | Lecture 5 Task 3
+**Advanced JavaScript | Lecture 5 Task 3**
+
+Solution to the following task:
+
+### Task
 
 Using event delegation, write an event listener that removes a paragraph from the “TODO list” when the corresponding delete button is clicked. 
 
